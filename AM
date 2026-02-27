@@ -1,0 +1,7 @@
+Additive Manufacturing using Selective Laser Sintering (SLS)
+
+This project focuses on the design, process analysis, and optimization of components fabricated using Selective Laser Sintering (SLS) technology. It covers powder-bed fusion principles, thermal behavior during laser sintering, material characterization (primarily polymer powders), and parameter optimization including laser power, scan speed, hatch spacing, and layer thickness.
+
+The study evaluates dimensional accuracy, surface finish, mechanical strength, and build orientation effects. CAD models were designed and prepared for slicing, followed by process simulation and post-processing analysis.
+
+Objective: Improve part integrity, reduce warpage, and enhance mechanical performance through controlled process parameter optimization in SLS-based additive manufacturing.
